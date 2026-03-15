@@ -54,7 +54,7 @@ OpenCloud Compose offers a modular approach to deploying OpenCloud with several 
 
    Then simply run:
    ```bash
-   docker compose up -d
+   podman-compose up -d
    ```
 
 6. **Access OpenCloud**:
