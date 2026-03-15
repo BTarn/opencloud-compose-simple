@@ -34,7 +34,7 @@ OpenCloud Compose offers a modular approach to deploying OpenCloud with several 
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/BTarn/opencloud-compose-simple.git
-   mv opencloud-compose-simple openclud
+   mv opencloud-compose-simple opencloud
    cd opencloud
    ```
 
